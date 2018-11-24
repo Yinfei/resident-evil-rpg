@@ -1,7 +1,6 @@
 Jill Valentine
 ----
 
-| Picture | Stats |
 :---------|-------:
 ![jill_valentine](./jill_valentine.png "Jill Valentine") | 8 items slots
 
