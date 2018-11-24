@@ -1,9 +1,9 @@
 Jill Valentine
 ----
+<div>
+<div style="float: left; display=inline"><img src="./jill_valentine.png" height="250px"/></div>
 
-<div style="float: left"><img src="./jill_valentine.png" height="250px"/></div>
-
-<div style="float: right">
+<div style="float: right; display=inline">
 * 8 items slots
 * Personal Item: **Lockpick** (Needed for some doors)
 
@@ -12,4 +12,5 @@ Jill Valentine
 | 3 | 2 | 2 | 2 | 2 |
 
 Starting Inventory : Samurai Edge 9mm (15 bullets)
+</div>
 </div>
