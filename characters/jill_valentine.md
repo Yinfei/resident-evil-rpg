@@ -1,9 +1,9 @@
 Jill Valentine
 ----
-<img style="float: left; max-width: 35%;" src="./jill_valentine.png">
+![jill_valentine](./jill_valentine.png "Jill Valentine")
 
-8 items slots
-Personal Item: **Lockpick** (Needed for some doors)
+* 8 items slots
+* Personal Item: **Lockpick** (Needed for some doors)
 
 | Perception | Stamina | Initiative | Dodge | Initiative |
 |------------|---------|------------|-------|------------|
