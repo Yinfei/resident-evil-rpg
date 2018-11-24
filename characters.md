@@ -3,8 +3,6 @@ Characters
 
 Jill Valentine
 ----
-Jill Valentine
-----
 * 8 items slots
 * Personal Item: **Lockpick** (Needed for some doors)
 
