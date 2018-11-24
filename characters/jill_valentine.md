@@ -1,7 +1,6 @@
 Jill Valentine
 ----
-| ![jill_valentine](./jill_valentine.png "Jill Valentine") | * 8 items slots
-* Personal Item: **Lockpick** (Needed for some doors) |
+<center>![jill_valentine](./jill_valentine.png "Jill Valentine")</center>
 
 * 8 items slots
 * Personal Item: **Lockpick** (Needed for some doors)
