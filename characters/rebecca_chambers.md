@@ -1,11 +1,10 @@
-Jill Valentine
+Rebecca Chambers
 ----
-
-* 8 items slots
-* Personal Item: **Lockpick** (Needed for some doors)
+6 items slots
+* Personal Item: **Chemistry kit** (needed to mix herb and create V-Jolt)
 
 | Perception | Stamina | Initiative | Dodge | Initiative |
 |------------|---------|------------|-------|------------|
-| 3 | 2 | 2 | 2 | 2 |
+| 2 | 1 | 2 | 3 | 1 |
 
 Starting Inventory : Samurai Edge 9mm (15 bullets)
