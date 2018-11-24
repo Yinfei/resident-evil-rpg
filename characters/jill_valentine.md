@@ -1,7 +1,7 @@
 Jill Valentine
 ----
 
-![](./jill_valentine.png =x200)
+![](./jill_valentine.png | height=200)
 
 * 8 items slots
 * Personal Item: **Lockpick** (Needed for some doors)
