@@ -1,6 +1,6 @@
 Jill Valentine
 ----
-![jill_valentine](./jill_valentine.png "Jill Valentine")
+<img style="float: left;" src="./jill_valentine.png">
 
 * 8 items slots
 * Personal Item: **Lockpick** (Needed for some doors)
