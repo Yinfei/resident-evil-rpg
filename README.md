@@ -1,4 +1,4 @@
 Resident Evil RPG
 ===
 
-An adaptation of Resident Evil Remake to tabletop RPG
+A conversion of Resident Evil Remake into a tabletop RPG game
